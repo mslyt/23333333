@@ -1,0 +1,18 @@
+.div3{
+	width: 300px;
+	height:200px;
+	display:table;
+	border:1px solid red;
+}
+.div.div1{
+	display:table-cell;
+	width:150px;
+	height:200px;
+	backgroud:red;
+}
+.div.div2{
+	display:table-cell;
+	width:150px;
+	height:200px;
+	backgroud:white;
+}
